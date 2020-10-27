@@ -9,7 +9,7 @@ chardet==3.0.4
 chrome-gnome-shell==0.0.0
 command-not-found==0.3
 crypto==1.4.1
-cryptography==2.8
+cryptography==3.2
 cupshelpers==1.0
 dbus-python==1.2.16
 defer==1.0.6
